@@ -1,5 +1,4 @@
 import streamlit as st
-https://github.com/syed42123/My-Therapist/tree/main
 
 st.set_page_config(page_title="My Online Therapist", layout ="Wide")
 
